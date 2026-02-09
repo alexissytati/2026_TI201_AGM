@@ -1,5 +1,5 @@
 /*
-* 20026 ITESS-TICs
+* 2026 ITESS-TICs
 *Periodo:Enero-Junio
 *Asignatura:Programacion Orientada a Objetos
 *Docente: Alexis Garcia Montero
