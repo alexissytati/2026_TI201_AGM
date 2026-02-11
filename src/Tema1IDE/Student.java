@@ -8,24 +8,22 @@
                      
 *                                    
 *Programador: Alexis Garcia Montero
-*Fecha:06/02/2026
+*Fecha:09/02/2026
  */
 package Tema1IDE;
 
-/**
- * 
- */
+
 public class Student {
-    
+         public Student( ) {
+
+              
+       }
+
         private String controlNumber;
         private String name;
         private String career;
         private String gender;
-           public Student() {
-
-
-       }
-
+      
 
        public String getControlNumber() {
            return controlNumber;
